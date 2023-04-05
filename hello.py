@@ -1,1 +1,1 @@
-print("Hello World")
+print("Bootcamp 1.0")
